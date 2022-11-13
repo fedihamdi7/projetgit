@@ -1,6 +1,7 @@
 package com.alinfo5.projetgit;
 
 public class ClasseKarym {
+
     public static void parite(Double a) {
         if (a % 2 == 0) {
             System.out.println(a + " est un nombre pair");
@@ -11,6 +12,14 @@ public class ClasseKarym {
         }
 
     }
+<<<<<<< HEAD
+=======
+
+    public static Double produit(Double a, Double b) {
+        return a * b;
+    }
+
+>>>>>>> master
     public static void factor(int number) {
         System.out.print("Factors of " + number + " are: ");
         for (int i = 1; i <= number; ++i) {
@@ -21,6 +30,7 @@ public class ClasseKarym {
     }
 
     public static void main(String[] args) {
+
         parite(6.0);
 
     }
