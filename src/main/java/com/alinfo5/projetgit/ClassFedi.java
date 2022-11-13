@@ -16,7 +16,7 @@ public class ClassFedi {
 
       } else {
           System.out.println(a + " est un nombre impair");
-
+        // commentaire
       }
 
   }
