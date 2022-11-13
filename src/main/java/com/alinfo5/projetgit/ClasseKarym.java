@@ -12,8 +12,13 @@ public class ClasseKarym {
 
     }
 
+    public static int Calculsoustraction(int a, int b) {
+        return a - b;
+    }
+
     public static void main(String[] args) {
         parite(6.0);
+        Calculsoustraction(5, 1);
     }
 
 }
