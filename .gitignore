@@ -5,12 +5,12 @@ target/
 !**/src/test/**/target/
 
 ### class 
-src/main/java/com/alinfo5/projetgit/ClassFedi.java
-src/main/java/com/alinfo5/projetgit/ClassAdem.java
-src/main/java/com/alinfo5/projetgit/Classahmed.java
-src/main/java/com/alinfo5/projetgit/classeAmine.java
-src/main/java/com/alinfo5/projetgit/ClassMohamed.java
-src/main/java/com/alinfo5/projetgit/ClassFedi.java
+./src/main/java/com/alinfo5/projetgit/ClassFedi.java
+./src/main/java/com/alinfo5/projetgit/ClassAdem.java
+./src/main/java/com/alinfo5/projetgit/Classahmed.java
+./src/main/java/com/alinfo5/projetgit/classeAmine.java
+./src/main/java/com/alinfo5/projetgit/ClassMohamed.java
+./src/main/java/com/alinfo5/projetgit/ClassFedi.java
 
 ### STS ###
 .apt_generated
