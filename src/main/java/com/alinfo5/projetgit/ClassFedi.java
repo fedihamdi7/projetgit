@@ -9,7 +9,12 @@ public class ClassFedi {
           }
         }
     }
+    public static Double CalculAvg (Double a,Double b){
+      return (a+b)/2;
+}
+
     public static void main(String[] args) {
         ClassFedi.factor(12);
+        System.out.println(CalculAvg(8.5,9.5));
     }
 }
