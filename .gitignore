@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 
 ### readme
-.Readme.MD 
+.Read.MD 
 
 
 ### STS ###
