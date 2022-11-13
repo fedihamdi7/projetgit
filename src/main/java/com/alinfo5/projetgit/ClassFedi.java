@@ -9,9 +9,23 @@ public class ClassFedi {
           }
         }
     }
+
     public static Double CalculAvg (Double a,Double b){
       return (a+b)/2;
 }
+
+
+
+    public static void parite(Double a) {
+      if (a % 2 == 0) {
+          System.out.println(a + " est un nombre pair");
+
+      } else {
+          System.out.println(a + " est un nombre impair");
+        // commentaire
+      }
+
+  }
 
     public static void main(String[] args) {
         ClassFedi.factor(12);
