@@ -12,10 +12,6 @@ public class ClasseKarym {
 
     }
 
-    public static int Calculsoustraction(int a, int b) {
-        return a - b;
-    }
-
     public static void factor(int number) {
         System.out.print("Factors of " + number + " are: ");
         for (int i = 1; i <= number; ++i) {
@@ -27,7 +23,7 @@ public class ClasseKarym {
 
     public static void main(String[] args) {
         parite(6.0);
-        Calculsoustraction(5, 1);
+
     }
 
 }
