@@ -9,7 +9,11 @@ public class ClasseKarym {
             System.out.println(a + " est un nombre impair");
 
         }
+        
 
+    }
+    public static Double produit (Double a, Double b){
+        return a*b;
     }
 
     public static void main(String[] args) {
