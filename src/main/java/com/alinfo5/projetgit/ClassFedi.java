@@ -10,6 +10,12 @@ public class ClassFedi {
         }
     }
 
+    public static Double CalculAvg (Double a,Double b){
+      return (a+b)/2;
+}
+
+
+
     public static void parite(Double a) {
       if (a % 2 == 0) {
           System.out.println(a + " est un nombre pair");
@@ -20,7 +26,9 @@ public class ClassFedi {
       }
 
   }
+
     public static void main(String[] args) {
         ClassFedi.factor(12);
+        System.out.println(CalculAvg(8.5,9.5));
     }
 }
