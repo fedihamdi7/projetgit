@@ -10,6 +10,11 @@ public class ClassFedi {
     }
   }
 
+  public static int adition(int a, int b) {
+    System.out.println(" addition");
+    return a + b;
+  }
+
   public static Double CalculAvg(Double a, Double b) {
     return (a + b) / 2;
   }
