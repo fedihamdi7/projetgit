@@ -12,14 +12,11 @@ public class ClasseKarym {
         }
 
     }
-<<<<<<< HEAD
-=======
 
     public static Double produit(Double a, Double b) {
         return a * b;
     }
 
->>>>>>> master
     public static void factor(int number) {
         System.out.print("Factors of " + number + " are: ");
         for (int i = 1; i <= number; ++i) {
