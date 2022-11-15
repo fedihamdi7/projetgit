@@ -16,7 +16,7 @@ public class ClasseKarym {
 
     public static void main(String[] args) {
 
-        parite(6.0);
+        factor(2);
 
 
     }
