@@ -23,10 +23,6 @@ public class ClassFedi {
     return a * b;
   }
 
-  public static int adition (int a, int b) {
-    return a+b;
-  }
-
   public static void parite(Double a) {
     if (a % 2 == 0) {
       System.out.println(a + " est un nombre pair");
